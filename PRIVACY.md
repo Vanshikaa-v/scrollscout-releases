@@ -1,6 +1,6 @@
 # ScrollScout privacy policy
 
-Last updated: 21 October 2026
+Last updated: 22 October 2026
 
 ScrollScout is a Mac app for researching Instagram Reels. It works on your Mac. We don't run any servers for it, there are no accounts, and we never receive your recordings, your notes or anything else you do in the app. There are no analytics, ads or trackers.
 
