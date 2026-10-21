@@ -24,6 +24,8 @@ ScrollScout is signed with a Developer ID and notarized by Apple, so it opens li
 
 ## Privacy
 
+The full [privacy policy](PRIVACY.md) covers everything below in more detail.
+
 - Recording, transcripts, on-screen text, search and answers all stay on your Mac.
 - Video comes only from the Chrome window you choose, and only while it shows Instagram. Recording pauses when that tab leaves Instagram.
 - Audio comes from all of Chrome. While you record, we suggest using Chrome only for Instagram: a call or video playing in another Chrome tab or window would be recorded and transcribed too.
