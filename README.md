@@ -25,6 +25,7 @@ ScrollScout is signed with a Developer ID and notarized by Apple, so it opens li
 
 - Recording, transcripts, on-screen text, search and answers all stay on your Mac.
 - ScrollScout records only a Chrome window that's showing Instagram, and pauses when that tab leaves Instagram.
+- While you record, we suggest using Chrome only for Instagram. ScrollScout hears all of Chrome's sound, so a call or video playing in another Chrome tab or window would be recorded too.
 - ScrollScout sends nothing over the network unless you turn something on. The update check (off by default) asks GitHub for the latest version number and nothing else. If you choose Claude for summaries in Settings, the text of the Reels you analyse goes to Anthropic. macOS downloads a speech model from Apple when you ask for one. Every request ScrollScout makes is listed in Settings → Privacy.
 
 ## Updates
