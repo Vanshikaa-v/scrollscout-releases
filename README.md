@@ -17,9 +17,9 @@ Get the latest DMG from **[Releases](../../releases/latest)**.
 ## Install
 
 1. Open the DMG and drag ScrollScout into Applications.
-2. Open it once. macOS will say it can't check the app, because this build isn't notarized yet.
-3. Go to **System Settings → Privacy & Security** and click **Open Anyway**.
-4. The welcome screen walks you through Screen Recording and Chrome Automation.
+2. Open it. The welcome screen walks you through Screen Recording and Chrome Automation.
+
+ScrollScout is signed with a Developer ID and notarized by Apple, so it opens like any other Mac app.
 
 ## Privacy
 
