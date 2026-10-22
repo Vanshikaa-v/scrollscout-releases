@@ -25,7 +25,7 @@ Everything is in `~/Library/Application Support/ScrollScout` on your Mac, as pla
 
 Only these:
 
-1. **Update check** (on by default, once a day; turn it off in Settings → General). ScrollScout asks GitHub for the latest version number. It sends nothing about you or your research. GitHub sees your IP address, as with any web request. [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) applies.
+1. **Updates.** The check is on by default, once a day; turn it off in Settings → General. ScrollScout reads the latest version's details from GitHub. It sends nothing about you or your research. When you choose Install Update, ScrollScout downloads the new version from GitHub, checks its signatures and installs it. Nothing is downloaded or installed without that choice. GitHub sees your IP address, as with any web request. [GitHub's privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) applies.
 2. **Claude** (available on request from vv@c4e.in; it needs your own Anthropic API key). If you use Claude for summaries or the Companion, the text of the Reels involved (transcripts, on-screen text, captions) goes to Anthropic, and so does your question to the Companion. Your notes and your sessions' research questions are never sent. Your key is stored in your Mac's Keychain. [Anthropic's privacy policy](https://www.anthropic.com/legal/privacy) applies.
 3. **Speech model.** When you ask for one, macOS downloads a speech recognition model from Apple.
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>ScrollScout</title>
+    <item>
+      <title>ScrollScout 1.2.0</title>
+      <pubDate>Wed, 21 Oct 2026 22:53:48 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text"><![CDATA[Mark a Reel with one hand. The mark shortcut is ⌥⌘M (Option-Command-M): with the right-hand ⌘ and ⌥ keys, it’s one hand. Prefer something else? Change it in Settings → General. Reset brings ⌥⌘M back. While ScrollScout is open, ⌥⌘M marks Reels instead of minimising all windows; ⌘M still minimises as usual.
+
+Start and stop a scroll from anywhere. ⌥⌘S (Option-Command-S) starts a scroll on your Instagram window and stops it again, even while Chrome is in front. The menu bar has Start Scroll too. Change the shortcut in Settings → General. While ScrollScout is open, ⌥⌘S doesn’t reach other apps, so Finder’s Show Sidebar shortcut waits until you quit.
+
+Updates install from the app. When there’s a new version, Install Update downloads it from GitHub, replaces ScrollScout and reopens it. Nothing is downloaded or installed until you choose it, and ScrollScout checks every update’s signatures before installing it. The daily check only asks GitHub for the latest version; turn it off in Settings → General. If you’re updating, you’ll see a notice about this first.
+
+Setup moved into the app. The first screen walks you through Screen Recording, Chrome access and your first recording. Skip it any time and bring it back from Help → Set Up ScrollScout.
+
+Every Reel shows who posted it. A fast scroll no longer leaves Reels without a frame to read, Reels you swipe past without stopping keep a frame too, handle rows that were misread now read correctly, and Reels in older scrolls are read again when you open the app. Each Reel has Open on Instagram next to Clip Reel, and Add creator when the creator couldn’t be read.
+
+The sound pauses while another Chrome window plays audio. ScrollScout can’t hear a background tab, so we still suggest using Chrome only for Instagram while you record.
+
+Claude is available on request. Summaries and the Companion can use Claude with your own Anthropic key. Ask vv@c4e.in to turn it on.
+
+Signed with a Developer ID and notarized by Apple.]]></description>
+      <enclosure url="https://github.com/Vanshikaa-v/scrollscout-releases/releases/download/v1.2.0/ScrollScout-1.2.0.dmg" type="application/octet-stream" sparkle:edSignature="upFZfHLbltp14R6KvaPwBjpDQxittWKIkz4xMxKniSGfwkQznF9nQ/8Xn83p3vi6aEfxmQmv8wEloofb/7RWAg==" length="12383332"></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ZNT1N9g8Y6FYdk/KVFKk2dNrMpIwV+IIDfe8hxejWwxMMaESwiYF66e0Xrr04owY0T/PBwMef/2ccn51bpmFAQ==
+length: 3143
+-->

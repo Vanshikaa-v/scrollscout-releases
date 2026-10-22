@@ -29,7 +29,7 @@ The full [privacy policy](PRIVACY.md) covers everything below in more detail.
 - Recording, transcripts, on-screen text, search and answers all stay on your Mac.
 - Video comes only from the Chrome window you choose, and only while it shows Instagram. Recording pauses when that tab leaves Instagram.
 - Audio comes from all of Chrome. ScrollScout pauses its audio while another Chrome window shows it's playing sound, but it can't hear which background tab is playing. So while you record, we suggest using Chrome only for Instagram.
-- Once a day ScrollScout asks GitHub whether there's a newer version. It sends nothing about you or your research, and you can turn it off in Settings → General. Nothing else leaves your Mac unless you ask for it: macOS downloads a speech model from Apple when you ask for one, and Claude (for summaries and the Companion) is available on request from vv@c4e.in. If you use it, the text of the Reels involved goes to Anthropic. Every request ScrollScout makes is listed in Settings → Privacy.
+- Once a day ScrollScout asks GitHub whether there's a newer version. It sends nothing about you or your research, and you can turn it off in Settings → General. When you choose to install an update, it downloads it from GitHub. Nothing else leaves your Mac unless you ask for it: macOS downloads a speech model from Apple when you ask for one, and Claude (for summaries and the Companion) is available on request from vv@c4e.in. If you use it, the text of the Reels involved goes to Anthropic. Every request ScrollScout makes is listed in Settings → Privacy.
 - Settings → General has an option for `scrollscout://` links, which is off by default. Leave it off: when it's on, a web page you visit can start a recording or ask the Companion a question.
 
 ## Where your research is kept
@@ -45,4 +45,8 @@ These are plain files on your disk, protected by your Mac login (and FileVault, 
 
 ## Updates
 
-ScrollScout checks for a new version once a day (you can turn this off) and tells you when one is here. ScrollScout → Check for Updates… checks right away. Its Download button opens this page; install the new DMG the same way.
+ScrollScout checks for a new version once a day (you can turn this off in Settings → General) and tells you when one is here. ScrollScout → Check for Updates… checks right away.
+
+Updates install from the app when you choose to: Install Update downloads the new version from GitHub, replaces ScrollScout and reopens it. Nothing is downloaded or installed until you choose it. Every update is signed, and ScrollScout checks the signatures before it installs one.
+
+If Check for Updates… only offers to open this page, your copy is from before this changed: download the latest DMG from Releases and drag it into Applications once. Updates after that install from the app.
